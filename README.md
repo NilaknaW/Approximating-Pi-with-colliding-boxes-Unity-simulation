@@ -4,7 +4,7 @@ This is a simulation project for visualizing the approximation to Pi by counting
 
 If you are interested in the math behind this, please read the 'Colliding Blocks and Pi.pdf' document.
 
-To run the simulation yourself, download exe files and save them in one folder. Run 'math 2 1.exe' and enjoy!
+To run the simulation yourself, download the simulation folder and run 'math 2 1.exe'.
 
 **References**
 
